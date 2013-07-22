@@ -1,0 +1,17 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "LEO Dictionary Quick Search Pop-up",
+    "version": "1.0",
+	"manifest_version": 2,
+    "description": "Easiest and fastest way to look-up a word in LEO dictionary.",
+    "icons": { "16": "leo16.png",
+			   "32": "leo32.png",
+               "48": "leo48.png",
+               "128": "leo128.png" },
+    "browser_action": {
+        "default_icon": "leo48.png",
+        "default_title": "LEO Dictionary Quick Search Pop-up",
+        "default_popup": "popup.html"
+    }
+}

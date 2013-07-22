@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+  <meta charset="utf-8"> 
+  <style type="text/css"> 
+    iframe { 
+      border: none;
+      /* Scrolling: no */
+      overflow: hidden;
+    }
+    #leo {
+        width: 675px;
+        height: 370px;
+        overflow: hidden;
+        position: relative;
+    }
+    #leo iframe {
+        position: absolute;
+        top: -120px;
+        left: -190px;
+        width: 1280px;
+        height: 1200px;
+    }
+  </style> 
+  <title>LEO Dictionary Quick Search Pop-up</title>
+</head>
+<body>
+  <div id='leo'><iframe src='http://dict.leo.org'></iframe></div>	
+</body>
+</html>
