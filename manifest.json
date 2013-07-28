@@ -2,7 +2,7 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
     "name": "LEO Dictionary Quick Search Pop-up",
-    "version": "1.0",
+    "version": "1.1",
 	"manifest_version": 2,
     "description": "Easiest and fastest way to look-up a word in LEO dictionary.",
     "icons": { "16": "leo16.png",
