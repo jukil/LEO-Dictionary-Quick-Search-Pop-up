@@ -22,6 +22,11 @@ First [download](https://chrome.google.com/webstore/detail/leo-dictionary-quick-
 Changelog
 =========
 
-1.0
+**1.1**
 
-Initial release
+ - Added scrollbar
+ - Increased height to show more content
+
+**1.0**
+
+ - Initial release
