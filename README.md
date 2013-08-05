@@ -22,6 +22,10 @@ First [download](https://chrome.google.com/webstore/detail/leo-dictionary-quick-
 Changelog
 =========
 
+**1.2**
+
+ - Added shortcut ALT+S to open the popup
+
 **1.1**
 
  - Added scrollbar
